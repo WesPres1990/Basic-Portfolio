@@ -4,7 +4,7 @@ My first portfolio site, which provides an introduction page with a short biogra
 
 ## How to Use
 
-User opens application via GitHub Pages [link](https://wespres1990.github.io/Basic-Portfolio/) to the homepage to view my short biography, and can access the contact and portfolio pages by clicking on the links to those pages at the top right-hand side of the main page. The portfolio page provides access to the GitHub repositories of my projects by clicking on the pictures and/or names of said projects.
+User opens application via the GitHub Pages [link](https://wespres1990.github.io/Basic-Portfolio/) to the homepage to view my short biography, and can access the contact and portfolio pages by clicking on the links to those pages at the top right-hand side of the main page. The portfolio page provides access to the GitHub repositories of my projects by clicking on the pictures and/or names of said projects.
 
 Additionally, the site provides links to my social media profiles on LinkedIn, GitHub, and Stack Overflow.
 
