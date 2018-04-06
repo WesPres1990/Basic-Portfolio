@@ -1,4 +1,4 @@
-# Basic-Portfolio
+# Basic Portfolio
 
 My first portfolio site, which provides an introduction page with a short biography about myself, a contact page, and a page which features my portfolio of projects. It demostrates my early abilities in web development.
 
